@@ -28,6 +28,10 @@ libconfig-apacheformat-perl libio-interface-perl libio-socket-multicast-perl \
 libio-socket-multicast6-perl libxml-simple-perl libimage-info-perl \
 libgd-gd2-perl libnet-netmask-perl
 
+On on rpm based system:
+sudo yum install perl-Getopt-Long-Descriptive perl-IO-Interface \
+perl-XML-Simple perl-Image-Info perl-Net-Netmask
+
 INSTALL
 ---------------
 Just run the script called 'install.pl -h' to get initial help for
